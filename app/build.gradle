@@ -46,7 +46,13 @@ dependencies {
     compile 'com.daimajia.androidanimations:library:2.2@aar'
     // Like
     compile 'com.google.android.gms:play-services-maps:9.8.0'
-
     testCompile 'junit:junit:4.12'
 
-}
+    // Added
+    // Time current and End Time Calculation https://stackoverflow.com/questions/21285161/android-difference-between-two-dates
+    // Cound Down View https://github.com/iwgang/CountdownView
+    // Heartian (Twitter like) https://android-arsenal.com/details/1/3876
+
+    // Runtime Permission
+    // Calender Access to Remainder Date
+}   // Google Api Key Taken from Thirdparty, Working File, No Restriction Key
