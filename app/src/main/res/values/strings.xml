@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeddingApp</string>
+    <string name="enter_email">ENTER EMAIL ID</string>
+    <string name="next">NEXT</string>
+    <string name="invitatiom">Invitation</string>
+    <string name="location">Location</string>
+    <string name="address">Panruti (Near BSNL Telephone Exchange) Hall Name: Sri Lakshmi Narasimha mahal, Sathya moorthi street, Panruti 607106</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#0084C0</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="white">#ffffff</color>
+
+    <!--App Color-->
+    <color name="green">#30C5FD</color>
+    <color name="text_color_grey">#92959B</color>
+    <color name="line_color_grey">#b892959b</color>
+    <color name="blue">#202530</color>
+    <color name="grey">#909399</color>
+    <color name="bottom_grey">#FAFAFA</color>
+    <color name="app_blue">#8EEAE4</color>
+
+    <color name="denied">#D0011B</color>
+    <color name="onetime">#4990E2</color>
+    <color name="app_blue_dark">#6599FF</color>
+    <color name="app_blue_dark_one">#0084C0</color>
+
+
+    <color name="heart_primary_color">#da4439</color>
+    <color name="heart_secondary_color">#8a098c</color>
+</resources>
